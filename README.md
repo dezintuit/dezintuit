@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dezintuit
-- 👀 I’m interested in making the world a better place
+- 👋 Hi, I'm Dez.
+- 👀 I’m interested in making the world a better place.
 - 📫 Find me on my Youtube channels:
   - https://www.youtube.com/@Dezintuit - Main channel
-  - https://www.youtube.com/@Disintuit - Extras
+  - https://www.youtube.com/@Disintuit - Extras channel
   - https://www.youtube.com/@DezintuitRO - Romanian channel
 
 <!---
