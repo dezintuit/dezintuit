@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Dez.
+- 👋 Hi, I'm Dezintuit and this is my Github page.
 - 👀 I’m interested in making the world a better place.
 - 📫 Find me on my Youtube channels:
   - https://www.youtube.com/@Dezintuit - Main channel
